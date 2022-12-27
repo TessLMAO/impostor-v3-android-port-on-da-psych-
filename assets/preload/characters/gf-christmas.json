@@ -3,7 +3,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				1,
+				0,
 				0
 			],
 			"anim": "cheer",
@@ -28,9 +28,9 @@
 				0,
 				-20
 			],
-			"anim": "singDOWN",
+			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "GF Down Note",
+			"name": "GF Right Note",
 			"indices": []
 		},
 		{
@@ -50,9 +50,9 @@
 				0,
 				-20
 			],
-			"anim": "singRIGHT",
+			"anim": "singDOWN",
 			"fps": 24,
-			"name": "GF Right Note",
+			"name": "GF Down Note",
 			"indices": []
 		},
 		{
@@ -138,6 +138,22 @@
 		{
 			"loop": false,
 			"offsets": [
+				45,
+				-8
+			],
+			"anim": "hairBlow",
+			"fps": 24,
+			"name": "GF Dancing Beat Hair blowing",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
 				0,
 				-9
 			],
@@ -172,10 +188,10 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/gfChristmas",
+	"image": "characters/gfghost",
 	"position": [
 		0,
-		0
+		-100
 	],
 	"healthicon": "gf",
 	"flip_x": false,

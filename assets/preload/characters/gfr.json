@@ -3,25 +3,37 @@
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				0
+				-2,
+				-21
 			],
-			"anim": "singUP",
+			"anim": "sad",
 			"fps": 24,
-			"name": "GF IDLE",
+			"name": "gf sad",
 			"indices": [
-				2
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
 			]
 		},
 		{
 			"loop": false,
 			"offsets": [
 				0,
-				0
+				-9
 			],
 			"anim": "danceLeft",
 			"fps": 24,
-			"name": "GF IDLE",
+			"name": "GF Dancing Beat",
 			"indices": [
 				30,
 				0,
@@ -45,11 +57,11 @@
 			"loop": false,
 			"offsets": [
 				0,
-				0
+				-9
 			],
 			"anim": "danceRight",
 			"fps": 24,
-			"name": "GF IDLE",
+			"name": "GF Dancing Beat",
 			"indices": [
 				15,
 				16,
@@ -69,8 +81,8 @@
 			]
 		}
 	],
-	"no_antialiasing": true,
-	"image": "characters/gfPixel",
+	"no_antialiasing": false,
+	"image": "characters/gfR",
 	"position": [
 		0,
 		0
@@ -83,9 +95,9 @@
 		77
 	],
 	"camera_position": [
-		-20,
-		80
+		0,
+		0
 	],
 	"sing_duration": 4,
-	"scale": 6
+	"scale": 1
 }

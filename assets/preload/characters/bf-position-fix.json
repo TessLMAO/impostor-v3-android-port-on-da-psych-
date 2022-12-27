@@ -113,6 +113,28 @@
 		{
 			"loop": false,
 			"offsets": [
+				15,
+				18
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "BF hit",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "BF idle shaking",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
 				37,
 				11
 			],
@@ -146,20 +168,42 @@
 		{
 			"loop": false,
 			"offsets": [
-				106,
-				41
+				-10,
+				-16
 			],
-			"anim": "kill",
+			"anim": "dodge",
 			"fps": 24,
-			"name": "BFPerish",
+			"name": "boyfriend dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				294,
+				267
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "boyfriend attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-40
+			],
+			"anim": "pre-attack",
+			"fps": 24,
+			"name": "bf pre attack",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BoyFriend_Assets_Impostor",
+	"image": "characters/BOYFRIEND",
 	"position": [
 		0,
-		350
+		0
 	],
 	"healthicon": "bf",
 	"flip_x": true,

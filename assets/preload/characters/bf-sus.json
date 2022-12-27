@@ -98,21 +98,10 @@
 			"fps": 24,
 			"name": "BF DOWN MISS",
 			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				47,
-				-43
-			],
-			"anim": "shoot",
-			"fps": 24,
-			"name": "BF SHOOT",
-			"indices": []
 		}
 	],
 	"no_antialiasing": true,
-	"image": "characters/bfPixel",
+	"image": "characters/bfSus",
 	"position": [
 		0,
 		350
