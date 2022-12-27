@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="buildingB2.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="buildingB20000" x="0" y="0" width="559" height="1"/>
+	<SubTexture name="buildingB20001" x="0" y="0" width="559" height="1"/>
+	<SubTexture name="buildingB20002" x="0" y="0" width="559" height="1"/>
+	<SubTexture name="buildingB20003" x="0" y="0" width="559" height="1"/>
+	<SubTexture name="buildingB20004" x="0" y="0" width="559" height="1964" frameX="0" frameY="-1950" frameWidth="559" frameHeight="177"/>
+	<SubTexture name="buildingB20005" x="0" y="0" width="559" height="1964" frameX="0" frameY="-1750" frameWidth="559" frameHeight="577"/>
+	<SubTexture name="buildingB20006" x="0" y="0" width="559" height="1964" frameX="0" frameY="-1550" frameWidth="559" frameHeight="977"/>
+	<SubTexture name="buildingB20007" x="0" y="0" width="559" height="1964" frameX="0" frameY="-1350" frameWidth="559" frameHeight="1377"/>
+	<SubTexture name="buildingB20008" x="0" y="0" width="559" height="1964" frameX="0" frameY="-1150" frameWidth="559" frameHeight="2177"/>
+	<SubTexture name="buildingB20009" x="0" y="0" width="559" height="1964" frameX="0" frameY="-950" frameWidth="559" frameHeight="2577"/>
+	<SubTexture name="buildingB20010" x="0" y="0" width="559" height="1964" frameX="0" frameY="-750" frameWidth="559" frameHeight="2977"/>
+	<SubTexture name="buildingB20011" x="0" y="0" width="559" height="1964" frameX="0" frameY="-550" frameWidth="559" frameHeight="3377"/>
+	<SubTexture name="buildingB20012" x="0" y="0" width="559" height="1964" frameX="0" frameY="-350" frameWidth="559" frameHeight="3777"/>
+	<SubTexture name="buildingB20013" x="0" y="0" width="559" height="1964"/>
+	<SubTexture name="buildingB20014" x="0" y="200" width="559" height="1764"/>
+	<SubTexture name="buildingB20015" x="0" y="400" width="559" height="1564"/>
+	<SubTexture name="buildingB20016" x="0" y="600" width="559" height="1364"/>
+	<SubTexture name="buildingB20017" x="0" y="800" width="559" height="1164"/>
+	<SubTexture name="buildingB20018" x="0" y="1000" width="559" height="964"/>
+	<SubTexture name="buildingB20019" x="0" y="1200" width="559" height="764"/>
+	<SubTexture name="buildingB20020" x="0" y="1400" width="559" height="564"/>
+	<SubTexture name="buildingB20021" x="0" y="1600" width="559" height="364"/>
+	<SubTexture name="buildingB20022" x="0" y="1800" width="559" height="164"/>
+	<SubTexture name="buildingB20023" x="0" y="0" width="559" height="1"/>
+	<SubTexture name="buildingB20024" x="0" y="0" width="559" height="1"/>
+	<SubTexture name="buildingB20025" x="0" y="0" width="559" height="1"/>
+	<SubTexture name="buildingB20026" x="0" y="0" width="559" height="1"/>
+	<SubTexture name="buildingB20027" x="0" y="0" width="559" height="1"/>
+	<SubTexture name="buildingB20028" x="0" y="0" width="559" height="1964" frameX="0" frameY="-1950" frameWidth="559" frameHeight="177"/>
+	<SubTexture name="buildingB20029" x="0" y="0" width="559" height="1964" frameX="0" frameY="-1750" frameWidth="559" frameHeight="577"/>
+	<SubTexture name="buildingB20030" x="0" y="0" width="559" height="1964" frameX="0" frameY="-1550" frameWidth="559" frameHeight="977"/>
+	<SubTexture name="buildingB20031" x="0" y="0" width="559" height="1964" frameX="0" frameY="-1350" frameWidth="559" frameHeight="1377"/>
+	<SubTexture name="buildingB20032" x="0" y="0" width="559" height="1964" frameX="0" frameY="-1150" frameWidth="559" frameHeight="2177"/>
+	<SubTexture name="buildingB20033" x="0" y="0" width="559" height="1964" frameX="0" frameY="-950" frameWidth="559" frameHeight="2577"/>
+	<SubTexture name="buildingB20034" x="0" y="0" width="559" height="1964" frameX="0" frameY="-750" frameWidth="559" frameHeight="2977"/>
+	<SubTexture name="buildingB20035" x="0" y="0" width="559" height="1964" frameX="0" frameY="-550" frameWidth="559" frameHeight="3377"/>
+	<SubTexture name="buildingB20036" x="0" y="0" width="559" height="1964" frameX="0" frameY="-350" frameWidth="559" frameHeight="3777"/>
+	<SubTexture name="buildingB20037" x="0" y="0" width="559" height="1964"/>
+	<SubTexture name="buildingB20038" x="0" y="200" width="559" height="1762"/>
+	<SubTexture name="buildingB20039" x="0" y="400" width="559" height="1564"/>
+	<SubTexture name="buildingB20040" x="0" y="600" width="559" height="1364"/>
+	<SubTexture name="buildingB20041" x="0" y="800" width="559" height="1164"/>
+	<SubTexture name="buildingB20042" x="0" y="1000" width="559" height="964"/>
+	<SubTexture name="buildingB20043" x="0" y="1200" width="559" height="764"/>
+	<SubTexture name="buildingB20044" x="0" y="1400" width="559" height="564"/>
+	<SubTexture name="buildingB20045" x="0" y="1600" width="559" height="364"/>
+	<SubTexture name="buildingB20046" x="0" y="1800" width="559" height="164"/>
+</TextureAtlas>
