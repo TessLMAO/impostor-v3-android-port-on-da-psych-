@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["sussus-toogus", "crewmate", [64, 171, 34]],
+		["lights-down", "impostor3", [64, 171, 34]],
+		["reactor", "impostor3", [64, 171, 34]],
+		["ejected", "parasite", [64, 171, 34]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "mira",
+
+	"storyName": "Vented: Part 2",
+	"weekBefore": "impostor0",
+	"weekName": "impostor1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

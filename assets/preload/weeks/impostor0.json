@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["sussus-moogus", "impostor", [255, 51, 51]],
+		["sabotage", "impostor", [255, 51, 51]],
+		["meltdown", "impostor", [255, 51, 51]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "polus",
+
+	"storyName": "Vented",
+	"weekBefore": "tutorial",
+	"weekName": "impostor1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

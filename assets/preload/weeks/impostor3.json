@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["defeat", "black", [43, 43, 43]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Secret Vent",
+	"weekBefore": "impostor2",
+	"weekName": "impostor3",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

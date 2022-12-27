@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["sussy-bussy", "tomongus", [255, 103, 112]],
+		["rivals", "tomongus", [255, 103, 112]],
+		["chewmate", "hamster", [255, 207, 134]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "pixel",
+
+	"storyName": "Pixel Vent",
+	"weekBefore": "impostor1",
+	"weekName": "impostor2",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

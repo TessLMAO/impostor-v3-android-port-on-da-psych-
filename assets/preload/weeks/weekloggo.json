@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Christmas", "fella", [32, 144, 0]],
+		["Spookpostor", "boo", [0, 0, 0]]	
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "stage",
+
+	"storyName": "(art by GallyCid)",
+	"weekBefore": "impostor4",
+	"weekName": "weekloggo",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
